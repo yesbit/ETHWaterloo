@@ -10,7 +10,7 @@ API task for ETHWaterloo Participants
 
 # Example Architecture 
 
-- You can use the the Metaverse API explorer to query information pertaining to an address through a node.js server.
+- You can use the Metaverse API explorer to query information pertaining to an address through a node.js server.
 
 - Create corresponding Ethereum accounts for Metaverse accounts using web3.js and store the pairs in a data structure.
 
@@ -24,7 +24,7 @@ API task for ETHWaterloo Participants
 
 - The current algorithm allows the early participants in the network to receive more ERC20 rewards as the network grows. The early participants in the network will gain more than the later participants.
 
-- You need to create an incentive eviroment for ETP address holders to join the token network created through ERC 1973. E.g the ERC20 could be redeemed for more ETP at a 1:10 ratio. 
+- You need to create an incentive environment for ETP address holders to join the token network created through ERC 1973. E.g the ERC20 could be redeemed for more ETP at a 1:10 ratio. 
 
 
 # Reference Links
