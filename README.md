@@ -37,9 +37,15 @@ API task for ETHWaterloo Participants
 
 - web3.js: https://github.com/ethereum/wiki/wiki/JavaScript-API
 
+# Project Submissions
+
+- https://ethwaterloo2.devpost.com/submissions
+
 
 # Prize Pool 
 
 - 2k CAD worth of DNA (Metaverse Dual Chain Network Architecture tokens)
+
+
 
 
