@@ -1,6 +1,6 @@
 # ETHWaterloo
 
-Potential task for ETHWaterloo Participants 
+API task for ETHWaterloo Participants 
 
 # Task
 
@@ -40,6 +40,6 @@ Potential task for ETHWaterloo Participants
 
 # Prize Pool 
 
-- a lambo 
+- 2k CAD worth of DNA (Metaverse Dual Chain Network Architecture tokens)
 
 
