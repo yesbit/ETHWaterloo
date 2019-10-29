@@ -29,8 +29,6 @@ API task for ETHWaterloo Participants
 
 # Reference Links
 
-- Metaverse API (documentation): https://docs.mvs.org/api_v3/
-
 - Metaverse API (recommended UI explorer): https://explorer.mvs.org/dev/api 
 
 - ERC 1973: https://eips.ethereum.org/EIPS/eip-1973
