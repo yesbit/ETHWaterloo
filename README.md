@@ -42,7 +42,10 @@ Facitilate interoperability between Metaverse (a Bitcoin based blockchain) and t
 
 - web3.js: https://github.com/ethereum/wiki/wiki/JavaScript-API, https://web3js.readthedocs.io/en/v1.2.2/
 
-- npm packages: https://www.npmjs.com/package/ethereumjs-tx, https://www.npmjs.com/package/bip39, https://www.npmjs.com/package/ethereumjs-wallet
+- npm packages
+    - https://www.npmjs.com/package/ethereumjs-tx
+    - https://www.npmjs.com/package/bip39
+    - https://www.npmjs.com/package/ethereumjs-wallet
 
 - ERC 1973 Project References: https://github.com/yesbit/ERC1973-Projects/pulls
 
