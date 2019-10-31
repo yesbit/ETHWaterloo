@@ -54,6 +54,13 @@ Facitilate interoperability between Metaverse (a Bitcoin based blockchain) and t
 
 - 2k CAD worth of DNA (Metaverse Dual Chain Network Architecture tokens)
 
+# Company Links
+
+- Metaverse: https://mvs.org/
+
+- KrawlCat: https://krawlcat.com/
+
+- ERC1973 Alliance: http://1973alliance.com
 
 
 
