@@ -1,6 +1,8 @@
 # ETHWaterloo
 
-API task for ETHWaterloo Participants 
+API task for ETHWaterloo Participants
+
+**WIN 2k CAD worth of DNA (Metaverse Dual Chain Network Architecture tokens)**
 
 # Task
 
@@ -52,10 +54,6 @@ Facitilate interoperability between Metaverse (a Bitcoin based blockchain) and t
 # Project Submissions
 
 - https://ethwaterloo2.devpost.com/submissions
-
-# Prize Pool 
-
-- 2k CAD worth of DNA (Metaverse Dual Chain Network Architecture tokens)
 
 # Company Links
 
