@@ -1,7 +1,5 @@
 # ETHWaterloo
 
-API task for ETHWaterloo Participants
-
 **WIN 2k CAD worth of DNA (Metaverse Dual Chain Network Architecture tokens)**
 
 # Task
