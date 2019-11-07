@@ -1,6 +1,6 @@
 ![alt text](https://github.com/yesbit/ETHWaterloo/blob/master/DNA-Logo-Only.png)
 
-# ETHWaterloo
+# Prize
 
 **WIN 2k CAD worth of DNA (Metaverse Dual Chain Network Architecture tokens)**
 
